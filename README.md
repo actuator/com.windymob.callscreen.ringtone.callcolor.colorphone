@@ -1,1 +1,0 @@
-# com.windymob.callscreen.ringtone.callcolor.colorphone
